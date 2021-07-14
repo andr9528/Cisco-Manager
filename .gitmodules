@@ -1,0 +1,8 @@
+[submodule "Wolf.Utility.Core"]
+	path = Wolf.Utility.Core
+	url = https://github.com/andr9528/Wolf.Utility.Core
+	branch = master
+[submodule "Cisco-Manager.wiki"]
+	path = Cisco-Manager.wiki
+	url = https://github.com/andr9528/Cisco-Manager.wiki.git
+	branch = master
